@@ -5,7 +5,7 @@ https://sites.google.com/d/11MpiWU7MA4wFR_U20VPS1XaaySUCge6g/p/1j0o3DsRODERvyQAh
 
 Opis projektu
 
-Federal Webhook Message Sender to oficjalne narzędzie komunikacyjne DOJ, które umożliwia bezpieczne wysyłanie wiadomości poprzez webhooki. Aplikacja została zaprojektowana z myślą o wymaganiach bezpieczeństwa i profesjonalizmu instytucji rządowych, z wykorzystaniem amerykańskiej kolorystyki narodowej (niebieski, czerwony, biały) i formalnej typografii.
+Federal Webhook Message Sender to oficjalne narzędzie komunikacyjne pod serwery rp dla DOJ, które umożliwia bezpieczne wysyłanie wiadomości poprzez webhooki. Aplikacja została zaprojektowana z myślą o wymaganiach bezpieczeństwa i profesjonalizmu instytucji rządowych, z wykorzystaniem amerykańskiej kolorystyki narodowej (niebieski, czerwony, biały) i formalnej typografii.
 
 Kluczowe funkcje
 
