@@ -1,7 +1,7 @@
 Federal Webhook Message Sender - Dokumentacja
 
-Strona demo:
-https://sites.google.com/d/11MpiWU7MA4wFR_U20VPS1XaaySUCge6g/p/1j0o3DsRODERvyQAhP5Hi5aZS8Q7VANvx/edit
+[Strona demo](https://sites.google.com/view/dojwebhook?usp=sharing)
+
 
 Opis projektu
 
